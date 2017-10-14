@@ -1,5 +1,5 @@
 # hacktoberfest
 Here contribution starts!
 
-Link for site:
-http://hacktoberfest.surge.sh/
+## Link for site:[Cheat Sheet](http://hacktoberfest.surge.sh/)
+
